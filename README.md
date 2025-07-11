@@ -107,6 +107,7 @@ matplotlib>=3.4.0
 seaborn>=0.11.0
 yfinance>=0.1.70
 scipy>=1.7.0
+
 ```
 
 ### Installation
